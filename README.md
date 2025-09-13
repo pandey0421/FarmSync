@@ -40,7 +40,7 @@ The app provides role-based dashboards, real-time updates, and ensures transpare
 
 Feel free to fork this repo and submit pull requests for improvements or new features!
 
-**7. Contact"**
+**7. Contact:**
 
 Developed by Sushanta Pandey (https://github.com/pandey0421)
 
